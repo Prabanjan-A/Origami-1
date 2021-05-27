@@ -1,0 +1,17 @@
+h1{
+    color:aquamarine;
+}
+
+*{
+    border: solid;
+}
+
+.McLaren{
+    background-color: cadetblue;
+}
+
+.Nissen GTR{
+background-color: brown;    
+display: flex;
+justify-self: self-end;
+}
